@@ -1,0 +1,11 @@
+Plan_ID,Plan_Name,Service_Type
+P001,"Basic Talk","Voice Only"
+P002,"Everyday Voice","Voice Only"
+P003,"Mobile Data 5GB","Data Only"
+P004,"Mobile Data 15GB","Data Only"
+P005,"Home Fiber 50","Fiber Broadband"
+P006,"Home Fiber 100","Fiber Broadband"
+P007,"Home Fiber 250","Fiber Broadband"
+P008,"Smart Bundle","Premium Bundle"
+P009,"Family Plus Bundle","Premium Bundle"
+P010,"Ultimate Connect","Premium Bundle"
